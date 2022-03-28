@@ -17,11 +17,11 @@
 
 
 <p align="center">
-  <a href="https://github.com/Kiny-Kiny/Kiny-Painel/blob/master/README.md#-features">Features</a> •
-  <a href="https://github.com/Kiny-Kiny/Kiny-Painel/blob/master/README.md#-install">Install & Run</a> •
-  <a href="https://youtube.com/channel/UC1aTvkvmTVO7OJ6oixtJo8w">Youtube Channel</a> •
-  <a href="https://github.com/Kiny-Kiny/Kiny-Painel/blob/master/README.md#-credits">Credits</a> •
-  <a href="https://github.com/Kiny-Kiny">Author</a> •
+  <a href="https://github.com/Juanzcreator/JuanzDados/blob/master/README.md#-features">Features</a> •
+  <a href="https://github.com/Juanzcreator/JuanzDados/blob/master/README.md#-install">Install & Run</a> •
+  <a href="https://youtube.com/channel/UCWKig5lwiv-cHKPykB4PIvw">Youtube Channel</a> •
+  <a href="https://github.com/Juanzcreator/JuanzDados/blob/master/README.md#-credits">Credits</a> •
+  <a href="https://github.com/Juanzcreator">Author</a> •
   <a href="http://int-search.xyz/">Site do Painel</a>
 </p>
 
@@ -29,7 +29,7 @@
  
 <h2 align="center">📆  Features</h2>
 
-Todos os que estão marcados já se encontram presente no **Kiny-Painel** funcionando. 
+Todos os que estão marcados já se encontram presente no *Juanz  funcionando*
 Os que não estão, é porque ainda estão em desenvolvimento.
 
 - [x] Consulta de CEP
